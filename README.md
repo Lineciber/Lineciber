@@ -20,7 +20,6 @@
 
 - 🔐 Cibersegurança (defesa, análise de logs, resposta a incidentes)  
 - ☁️ Cloud (Azure e AWS)  
-- 🛠️ Automação com PowerShell e Python  
 - 🧩 Segurança em ambientes Microsoft (M365 e Azure AD)  
 - 🌐 Boas práticas de segurança, privacidade e governança digital
 
