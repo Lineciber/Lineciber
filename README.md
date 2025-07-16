@@ -45,9 +45,6 @@
 
 ---
 
----
-
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/pacman.gif" alt="Pac-Man" width="180" />
 </p>
-
