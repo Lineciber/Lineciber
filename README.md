@@ -8,36 +8,34 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🖥️ Técnica em Informática com foco em suporte e infraestrutura  
-- 🎓 Estudante de Cibersegurança  
-- ☁️ Explorando o universo de Cloud Computing e Segurança da Informação  
-- 📚 Estudando SC-200, SC-300, fundamentos de AWS.
--
+- 🎓 Técnica em Suporte em TI, formada em Redes de Computadores  
+- 🎓 Pós-graduada em Cibersegurança e Governança de Dados  
+- 💼 Experiência em suporte técnico, infraestrutura e resolução de incidentes  
+- ☁️ Atualmente migrando para a área de Segurança em Nuvem (Cloud Security)  
+- 📚 Estudante dedicada em segurança da informação, com foco em Microsoft e AWS
 
 ---
 
 ### 🌱 Áreas de interesse
 
-- 🔐 Cibersegurança (defesa, análise de logs, resposta a incidentes)  
-- ☁️ Cloud (Azure e AWS)  
-- 🧩 Segurança em ambientes Microsoft (M365 e Azure AD)  
-- 🌐 Boas práticas de segurança, privacidade e governança digital
+- 🔐 Cibersegurança: defesa, análise de logs, resposta a incidentes  
+- ☁️ Computação em Nuvem: Azure e AWS  
+- 🧩 Segurança em ambientes Microsoft (Microsoft 365, Azure AD)  
+- 🌐 Privacidade, governança digital e boas práticas de segurança
 
 ---
-
 
 ### 📚 Atualmente estudando
 
 - SC-200: Microsoft Security Operations Analyst  
 - SC-300: Identity and Access Administrator  
-- AWS Cloud Practitioner (CLF-C02)  
+- AWS Certified Cloud Practitioner (CLF-C02)  
 
 ---
 
 ### 🌐 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-ssilva/)
-
 
 ---
 
