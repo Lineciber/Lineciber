@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Olá, sou a Aline Suelen! 👋</h1>
 
-<!--
-**Lineciber/Lineciber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Em transição para Cibersegurança e Cloud | Apaixonada por tecnologia, segurança e aprendizado contínuo
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Sobre mim
+
+- 🖥️ Técnica em Informática com foco em suporte e infraestrutura  
+- 🎓 Estudante de Cibersegurança  
+- ☁️ Explorando o universo de Cloud Computing e Segurança da Informação  
+- 📚 Estudando SC-200, SC-300, fundamentos de AWS.
+-
+
+---
+
+### 🌱 Áreas de interesse
+
+- 🔐 Cibersegurança (defesa, análise de logs, resposta a incidentes)  
+- ☁️ Cloud (Azure e AWS)  
+- 🛠️ Automação com PowerShell e Python  
+- 🧩 Segurança em ambientes Microsoft (M365 e Azure AD)  
+- 🌐 Boas práticas de segurança, privacidade e governança digital
+
+---
+
+
+### 📚 Atualmente estudando
+
+- SC-200: Microsoft Security Operations Analyst  
+- SC-300: Identity and Access Administrator  
+- AWS Cloud Practitioner (CLF-C02)  
+
+---
+
+### 🌐 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-ssilva/)
+
+
+---
+
+### 🌟 Frase que me inspira
+
+> "A segurança não é um produto, é um processo." – Bruce Schneier
