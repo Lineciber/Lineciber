@@ -21,4 +21,30 @@
 - 🔐 Cibersegurança: defesa, análise de logs, resposta a incidentes  
 - ☁️ Computação em Nuvem: Azure e AWS  
 - 🧩 Segurança em ambientes Microsoft (Microsoft 365, Azure AD)  
-- 🌐 Privacidade, governança digital e boas práticas de
+- 🌐 Privacidade, governança digital e boas práticas de segurança
+
+---
+
+### 📚 Atualmente estudando
+
+- SC-200: Microsoft Security Operations Analyst  
+- SC-300: Identity and Access Administrator  
+- AWS Certified Cloud Practitioner (CLF-C02)  
+
+---
+
+### 🌐 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-ssilva/)
+
+---
+
+### 🌟 Frase que me inspira
+
+> "A segurança não é um produto, é um processo." – Bruce Schneier
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Pac-Man" width="150" />
+</p>
