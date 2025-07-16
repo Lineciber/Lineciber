@@ -45,6 +45,9 @@
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Pac-Man" width="150" />
+  <img src="https://profile-readme-generator.com/assets/pacman.gif" alt="Pac-Man" width="180" />
 </p>
+
