@@ -11,6 +11,7 @@
 - 💼 Experiência em suporte técnico, infraestrutura e resolução de incidentes  
 - ☁️ Atualmente migrando para a área de Segurança em Nuvem (Cloud Security)  
 - 📚 Estudante dedicada em segurança da informação, com foco em Microsoft e AWS
+- Certificada na Microsoft SC900
 
 ---
 
